@@ -1,10 +1,13 @@
-/* --------------------------------------
-
-To call:
-
-$('#clickedEl').fadingSlideToggle('#toggleEl');
-
--------------------------------------- */
+/*
+* jQuery Fading Slide Toggle 1.0.0, jQuery plugin
+* https://github.com/donwalter/jquery-fading-slide-toggle
+*
+* Copyright(c) 2013, Don Walter
+* http://www.don-walter.com/
+*
+* Adds fading capabilities to slideUp and slideDown
+* Licensed under the MIT License
+*/
 
 (function($) {
 	$.fn.fadingSlideToggle = function($el, options) {
