@@ -1,0 +1,35 @@
+{
+	"name": "fading-slide-toggle",
+	"title": "jQuery Fading Slide Toggle",
+	"description": "jQuery plugin to trigger a slideUp or slideDown, while fading in or out at the same time.",
+	"keywords": [
+		"fade",
+		"slide",
+		"toggle",
+		"animation"
+	],
+	"version": "1.0.0",
+	"author": {
+		"name": "Don Walter",
+		"url": "https://github.com/donwalter"
+	},
+	"maintainers": [
+		{
+			"name": "Don Walter",
+			"email": "don@reliantweb.net",
+			"url": "http://www.don-walter.com/"
+		}
+	],
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "http://opensource.org/licenses/MIT"
+		}
+	],
+	"bugs": "https://github.com/donwalter/jquery-fading-slide-toggle/issues",
+	"homepage": "https://github.com/donwalter/jquery-fading-slide-toggle",
+	"docs": "https://github.com/donwalter/jquery-fading-slide-toggle",
+	"dependencies": {
+		"jquery": ">=1.7"
+	}
+}
