@@ -27,12 +27,12 @@
 				e.preventDefault();
 				if ($($el).css('display') == 'none') {
 					$($el).animate({
-						opacity: 1,
+						opacity: 'toggle',
 						height: 'toggle'
 					}, settings.duration, settings.easing);
 				} else {
 					$($el).animate({
-						opacity: 0,
+						opacity: 'toggle',
 						height: 'toggle'
 					}, settings.duration, settings.easing);
 				}
