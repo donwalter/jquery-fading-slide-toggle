@@ -1,5 +1,5 @@
 /*
-* jQuery Fading Slide Toggle 1.0.0, jQuery plugin
+* jQuery Fading Slide Toggle 1.0.1, jQuery plugin
 * https://github.com/donwalter/jquery-fading-slide-toggle
 *
 * Copyright(c) 2013, Don Walter
